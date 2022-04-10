@@ -3,6 +3,7 @@
   text-align: center;
   background-color: black;
   color: #fff;
+  transition: 0.5s ease-in-out;
 }
 
 button {
